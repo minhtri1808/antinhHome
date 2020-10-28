@@ -17,7 +17,6 @@ const menu = ()=>{
 		})
 	}
 }
-
 const initSwiperProject = ()=>{
 	const swiperProject= new Swiper(".swiper__wrapper .swiper-container",{
 		speed: 1000,
